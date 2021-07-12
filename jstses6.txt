@@ -1,0 +1,33 @@
+JAVASCRIPT
+
+used in all browsers - vanilla js
+typescript - typing in js
+ecmascript - standardization rules in js
+
+JS+TS+ES6:
+var, let, const
+var - scope within and outside its immediate function - closure - scope dies but not closure
+let - private
+primitive: Number, string, boolean, undefined, null,
+reference: Object, array, function
+function/class is also a object
+template literals - ``
+type assertions - <string>message or message as string
+inline allocation - message: string, num: Number
+interfaces
+?: declaration in constructor - optional
+this - refers to current object, bind
+this on method arrow function will return global window object and not class object -> arrow func already refer to this or current object
+new - allocates space
+getter, setter - get X(), set X() - point.X to access
+export, import to modules
+private, public, protected - access specifiers
+arrow function - let test = (user) => console.log(user)
+spread ...a - shallow copy
+destructuring - {name, phone} = obj
+foreach, for in - object, for of - array, map, reduce, filter
+inheritance - extends
+object define properties - get set
+named {} and default export
+
+
